@@ -1,0 +1,7 @@
+{
+  "completed_runs": 416,
+  "planned_runs": 416,
+  "missing_runs": 0,
+  "checks": "PASS: energy continuity, planned data debits, alive/CH state, route acyclicity, death rounds, lifetime metrics, paired topology and initial energy",
+  "scope": "Control debit event formulas are implemented in simulator.py; no independent hardware delivery validation."
+}
